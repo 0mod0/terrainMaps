@@ -1,0 +1,24 @@
+{
+  "name": "terrainMaps",
+  "version": "1.0.0",
+  "description": "Web app displaying Tangram maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0mod0/terrainMaps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0mod0/terrainMaps/issues"
+  },
+  "homepage": "https://github.com/0mod0/terrainMaps#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "leaflet": "^0.7.7"
+  }
+}
